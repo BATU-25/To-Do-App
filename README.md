@@ -18,6 +18,8 @@ The main modules include the GUI setup, task management methods
 2- After downloading To-Do-App-main, extract the folder
 3- In the folder, there will be:
 a) To-Do list.exe app 
+
 b) To-Do list source code to analyze the code 
+
 c) A presentation about the development process of the app
 
