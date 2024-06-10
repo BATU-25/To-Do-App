@@ -15,7 +15,9 @@ The main modules include the GUI setup, task management methods
 
 ## How to Install: 📲
 1- Click the Green "Code" button to acsess the download 
+
 2- After downloading To-Do-App-main, extract the folder
+
 3- In the folder, there will be:
 
 a) To-Do list.exe app 
