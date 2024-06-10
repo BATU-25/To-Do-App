@@ -1,4 +1,4 @@
-[Header] Project Overview:
+    Project Overview:
 We all have a ton of to-do tasks in our days that often turn into complex piles that can't be sorted through. 
 The To-Do List app is designed to help users efficiently manage their daily tasks. 
 It allows users to add tasks, update, delete and mark tasks as completed. 
